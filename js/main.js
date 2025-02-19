@@ -62,7 +62,7 @@ function goTimerError(time) {
 }
 
 getSignal.onclick = function () {
-    let receivingSignal = 3.38 ;
+    let receivingSignal = 1.87 ;
     if (receivingSignal.toString().length == 3) {
         receivingSignal += "0";
     }
